@@ -1,0 +1,4 @@
+br\com\flappybird\view\PnlFlappyBird.class
+br\com\flappybird\view\FrmFlappyBird.class
+br\com\flappybird\model\Bird.class
+br\com\flappybird\model\Pipe.class
